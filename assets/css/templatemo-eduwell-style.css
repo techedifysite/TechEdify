@@ -758,7 +758,8 @@ services
   transition: all .3s;
 }
 
-.services .item:hover {
+.services .item {
+  baground-color:white;
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.06);
 }
 
