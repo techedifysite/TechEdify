@@ -759,7 +759,8 @@ services
 }
 
 .services .item {
-  baground-color:white;
+  background: rgb(254,191,94);
+  background: linear-gradient(139deg, rgba(254,191,94,0.6827404519786006) 0%, rgba(230,61,117,0.6711462490800498) 100%);
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.06);
 }
 
